@@ -1,1 +1,4 @@
 fastapi[all]
+uvicorn
+h3 >= 4.0
+shapely
